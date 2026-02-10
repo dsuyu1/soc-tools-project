@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+.env
 
 # macOS-specific files.
 .DS_Store
